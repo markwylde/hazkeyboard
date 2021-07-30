@@ -12,6 +12,7 @@
     "@most/dom-event": "^2.2.0",
     "@most/prelude": "^1.8.0",
     "@most/scheduler": "^1.3.0",
+    "events": "^3.3.0",
     "ramda": "^0.27.1"
   },
   "repository": {
